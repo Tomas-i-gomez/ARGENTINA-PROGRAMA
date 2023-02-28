@@ -1,0 +1,63 @@
+.background {
+    background-color: #d7e7f5;
+}
+
+/* title */
+h1 {
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgb(182, 185, 112); */
+    font-family: 'Pacifico', cursive;
+    color: #140301;
+    text-shadow: 0 1px 0px #378ab4, 1px 0 0px #5dabcd, 1px 2px 1px #378ab4, 2px 1px 1px #5dabcd, 2px 3px 2px #378ab4, 3px 2px 2px #5dabcd, 3px 4px 2px #378ab4, 4px 3px 3px #5dabcd, 4px 5px 3px #378ab4, 5px 4px 2px #5dabcd, 5px 6px 2px #378ab4, 6px 5px 2px #5dabcd, 6px 7px 1px #378ab4, 7px 6px 1px #5dabcd, 7px 8px 0px #378ab4, 8px 7px 0px #5dabcd;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.parrafo {
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+}
+
+
+h2, h3{
+    margin: 40px;
+    font-size:xx-large;
+    font-family: 'Satisfy', cursive;
+    text-align: justify;
+}
+
+p, li {
+    margin: 15px;
+    font-size: large;
+    font-family:'Roboto Condensed', sans-serif;
+    text-align: justify;
+}
+
+.button-style {
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.bg-alternative {
+    border-radius: 20px;
+    border-style:groove;
+}
+    
+.bg-footer {
+    background-color: rgb(182, 185, 112);
+}
+
+
+
+
+
+
+
